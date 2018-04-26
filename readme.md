@@ -1,4 +1,4 @@
-# Rithm 6 Exercises
+# Rithm 7 Exercises
 
 This is the master repository for all of Rithm School's seventh cohort's exercises. You will create your own repositories for each exercise.
 
